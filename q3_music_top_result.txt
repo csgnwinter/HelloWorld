@@ -1,0 +1,15 @@
+  Mem:  2009436K total,  1865516K used,   143920K free,     3016K buffers
+ Swap:        0K total,        0K used,        0K free,   297092K cached
+400%cpu  57%user  53%nice 104%sys 149%idle  13%iow  19%irq   4%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS                   
+ 1145 u0_a100      20   0  15G 151M  58M S 58.6   7.6   1:00.17 com.google.android.gms+
+28651 u0_a125      10 -10  17G 216M  30M R 34.0  10.9   0:36.46 com.google.android.app+
+  578 system       18  -2  18G 178M  32M S 30.0   9.0  18:24.43 system_server
+  406 system       -3  -8  11G  22M 4.9M S 18.3   1.1   6:54.94 surfaceflinger
+ 1871 u0_a104      20   0  48G 177M  47M S 18.0   9.0   0:19.78 com.google.android.goo+
+  129 root         20   0    0    0    0 R 13.0   0.0   0:40.58 [kswapd0]
+29510 u0_a62       20   0  14G  56M  11M S  8.6   2.8   0:00.16 com.android.providers.+
+  462 logd         30  10  10G 2.4M 1.6M S  7.0   0.1   0:31.52 logcat -f /dev/hvc1 *:V
+  218 logd         30  10  10G 8.0M 2.8M S  5.3   0.4   0:59.13 logd
+27511 u0_a126      20   0  15G 101M  45M S  4.6   5.1   0:01.87 com.google.android.cal+
+29450 u0_a100      20   0  15G 114M  36M R  3.6   5.7   0:09.52 com.google.android.gms
